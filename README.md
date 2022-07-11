@@ -1,6 +1,6 @@
 ## Olá, eu sou João Victor Caliaro 👋
 
-[![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jcaliaro@gmail.com)
+[![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcaliaro@gmail.com)
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorcaliaro&show_icons=true&theme=dark)
 
