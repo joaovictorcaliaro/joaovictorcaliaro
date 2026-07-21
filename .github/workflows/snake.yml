@@ -2,7 +2,6 @@ name: Generate Snake
 
 on:
   schedule:
-    # roda a cada 12 horas
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -15,8 +14,9 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: joaovictorcaliaro
           outputs: |
